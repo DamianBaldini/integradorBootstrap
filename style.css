@@ -1,0 +1,49 @@
+.header{
+    background-image: url(./ba1.jpg);
+    background-size: auto;
+    background-position: center;
+    filter: contrast(40%);
+    filter: blur(10px);
+    filter: saturate(80%);
+    background-color: rgba(24,22,22,0.797);
+    background-blend-mode: soft-light;
+    height: 600px;
+}
+
+.img-logo{
+    width: 110px;
+}
+
+.honolulu{
+    width: 100%;
+}
+
+.p{
+    text-align: justify;
+}
+
+.a{
+    text-decoration: none;
+}
+
+.conoce{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tituloFormulario{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.parrafito{
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(9, 9, 128);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
